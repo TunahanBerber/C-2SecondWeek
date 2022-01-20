@@ -1,0 +1,16 @@
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.exe
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.deps.json
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.json
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.dev.json
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.dll
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\ref\Homework1.dll
+C:\Users\Tunahan\source\repos\Homework1\bin\Debug\net5.0\Homework1.pdb
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfo.cs
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.dll
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\ref\Homework1.dll
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.pdb
+C:\Users\Tunahan\source\repos\Homework1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
