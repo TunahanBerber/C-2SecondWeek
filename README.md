@@ -1,2 +1,2 @@
-# C-2SecondWeek
+# C#SecondWeek
 Second Week lesson + homework
